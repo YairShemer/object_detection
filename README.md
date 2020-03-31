@@ -11,3 +11,6 @@
 ## Code
 * [Mask R-CNN Image Segmentation Demo (google colab)](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb#scrollTo=t_iHs_wm2Mhh)
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
+
+## Tools for learning
+* [Quizlet list for our material](https://quizlet.com/_89f5ci?x=1qqt&i=20rwt5)
