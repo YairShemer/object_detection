@@ -12,7 +12,7 @@
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [Focal Loss for Dense Object Detection
  (RetinaNet)](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
-* 
+
 ## Blogs:
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Excellent explanation about YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967?sa=X&ved=2ahUKEwjM1taQ8_PmAhVjoFwKHdRnAYsQFnoECAsQAg)
