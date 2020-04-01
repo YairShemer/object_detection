@@ -2,7 +2,7 @@
 ## Papers:
 ### Overviews
 * [Object Detection with Deep Learning: A Review, 2019](https://arxiv.org/pdf/1807.05511.pdf?fbclid=IwAR2tXY7WYxw-W3OId0QfiSFDTURJ7WbivR7ARnT2wLTi00aw0KVwg93P2Zg)
-* [Deep visual domain adaptation: A survey, 2018](https://www.sciencedirect.com/science/article/pii/S0925231218306684)
+* [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 ### Algorithms
 * [R-CNN](https://arxiv.org/abs/1311.2524)
