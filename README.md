@@ -1,4 +1,4 @@
-# Object Detection
+# Object Detection and Domain Adaptation
 ## Papers:
 ### Overviews
 * [Object Detection with Deep Learning: A Review, 2019](https://arxiv.org/pdf/1807.05511.pdf?fbclid=IwAR2tXY7WYxw-W3OId0QfiSFDTURJ7WbivR7ARnT2wLTi00aw0KVwg93P2Zg)
@@ -22,4 +22,5 @@
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
 * [Using MMLab Detection on COCO data set on google colab | DLology blog](https://colab.research.google.com/github/Tony607/mmdetection_instance_segmentation_demo/blob/master/mmdetection_train_custom_coco_data_segmentation.ipynb#scrollTo=An830Vi4rMz6)
 ## Tools for learning
-* [Quizlet list for our material](https://quizlet.com/_89f5ci?x=1qqt&i=20rwt5)
+* [Quizlet list for object detection material](https://quizlet.com/_89f5ci?x=1qqt&i=20rwt5)
+* [Quizlet list for domain adaptation material](https://quizlet.com/_89ki88?x=1qqt&i=20rwt5)
