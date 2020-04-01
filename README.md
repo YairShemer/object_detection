@@ -21,6 +21,6 @@
 * [Mask R-CNN Image Segmentation Demo (google colab)](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb#scrollTo=t_iHs_wm2Mhh)
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
 * [Using MMLab Detection on COCO data set on google colab | DLology blog](https://colab.research.google.com/github/Tony607/mmdetection_instance_segmentation_demo/blob/master/mmdetection_train_custom_coco_data_segmentation.ipynb#scrollTo=An830Vi4rMz6)
-## Tools for learning
+## Tools for Learning the Material
 * [Quizlet list for object detection material](https://quizlet.com/_89f5ci?x=1qqt&i=20rwt5)
 * [Quizlet list for domain adaptation material](https://quizlet.com/_89ki88?x=1qqt&i=20rwt5)
