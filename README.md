@@ -12,11 +12,13 @@
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [Focal Loss for Dense Object Detection
  (RetinaNet)](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
-
-## Blogs:
+* [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
+* [Deep CORAL: Correlation Alignment for Deep(2016)](https://arxiv.org/pdf/1607.01719.pdf)
+Domain Adaptation]
+## Blogs and more:
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Excellent explanation about YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967?sa=X&ved=2ahUKEwjM1taQ8_PmAhVjoFwKHdRnAYsQFnoECAsQAg)
-
+* [A collection of AWESOME things about domian adaptation (github](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 ## Code
 * [Mask R-CNN Image Segmentation Demo (google colab)](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb#scrollTo=t_iHs_wm2Mhh)
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
