@@ -21,7 +21,7 @@ Domain Adaptation]
 * [A collection of AWESOME things about domian adaptation (github](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 ## Code
 * [Mask R-CNN Image Segmentation Demo (google colab)](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb#scrollTo=t_iHs_wm2Mhh)
-* [Creating your own object detector](https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85), and a [corresoponding google colab tutorial](https://colab.research.google.com/github/TannerGilbert/Tutorials/blob/master/Tensorflow%20Object%20Detection/object_detection_with_own_model.ipynb)
+* [Creating your own object detector (a Medium article)](https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85), and a [corresoponding google colab tutorial](https://colab.research.google.com/github/TannerGilbert/Tutorials/blob/master/Tensorflow%20Object%20Detection/object_detection_with_own_model.ipynb)
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
 * [Using MMLab Detection on COCO data set on google colab | DLology blog](https://colab.research.google.com/github/Tony607/mmdetection_instance_segmentation_demo/blob/master/mmdetection_train_custom_coco_data_segmentation.ipynb#scrollTo=An830Vi4rMz6)
 ## Tools for Learning the Material
