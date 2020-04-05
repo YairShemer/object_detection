@@ -19,7 +19,9 @@ Domain Adaptation]
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Excellent explanation about YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967?sa=X&ved=2ahUKEwjM1taQ8_PmAhVjoFwKHdRnAYsQFnoECAsQAg)
 * [A collection of AWESOME things about domian adaptation (github](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
+* [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 ## Code
+* [TorchVision 0.3 Object Detection finetuning tutoria (google colab)](https://colab.research.google.com/github/pytorch/vision/blob/temp-tutorial/tutorials/torchvision_finetuning_instance_segmentation.ipynb)
 * [Mask R-CNN Image Segmentation Demo (google colab)](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb#scrollTo=t_iHs_wm2Mhh)
 * [Creating your own object detector (a Medium article)](https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85), and a [corresoponding google colab tutorial](https://colab.research.google.com/github/TannerGilbert/Tutorials/blob/master/Tensorflow%20Object%20Detection/object_detection_with_own_model.ipynb)
 * [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
