@@ -15,6 +15,9 @@
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
 * [Deep CORAL: Correlation Alignment for Deep(2016)](https://arxiv.org/pdf/1607.01719.pdf)
 Domain Adaptation]
+### Advanced topics
+* [Deep Learning for Single-View Instance Recognition](https://arxiv.org/abs/1507.08286)
+* [Where’s Waldo? A Deep Learning approach to Template Matching](http://cs231n.stanford.edu/reports/2017/pdfs/817.pdf)
 ## Blogs and more:
 * [A paper list of object detection using deep learning.](https://github.com/hoya012/deep_learning_object_detection)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
