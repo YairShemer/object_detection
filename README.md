@@ -1,9 +1,8 @@
-# Object Detection and Domain Adaptation
+# Object Detection
 ## Papers:
 ### Overviews
 * [Object Detection with Deep Learning: A Review, 2019](https://arxiv.org/pdf/1807.05511.pdf?fbclid=IwAR2tXY7WYxw-W3OId0QfiSFDTURJ7WbivR7ARnT2wLTi00aw0KVwg93P2Zg)
-* [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
-* [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
+
 ### Algorithms
 * [R-CNN](https://arxiv.org/abs/1311.2524)
 * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
@@ -12,9 +11,7 @@
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [Focal Loss for Dense Object Detection
  (RetinaNet)](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
-* [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
-* [Deep CORAL: Correlation Alignment for Deep(2016)](https://arxiv.org/pdf/1607.01719.pdf)
-Domain Adaptation]
+
 ### Advanced topics
 * [Deep Learning for Single-View Instance Recognition](https://arxiv.org/abs/1507.08286)
 * [Where’s Waldo? A Deep Learning approach to Template Matching](http://cs231n.stanford.edu/reports/2017/pdfs/817.pdf)
@@ -22,7 +19,6 @@ Domain Adaptation]
 * [A paper list of object detection using deep learning.](https://github.com/hoya012/deep_learning_object_detection)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Excellent explanation about YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967?sa=X&ved=2ahUKEwjM1taQ8_PmAhVjoFwKHdRnAYsQFnoECAsQAg)
-* [A collection of AWESOME things about domian adaptation (github](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 * [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 ## Code
 * [TorchVision 0.3 Object Detection finetuning tutorial (google colab)](https://colab.research.google.com/github/pytorch/vision/blob/temp-tutorial/tutorials/torchvision_finetuning_instance_segmentation.ipynb)
